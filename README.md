@@ -68,13 +68,13 @@
 </table>
 
 <h3>Patents</h3>
- <li>Wireless optical communication data transmission apparatus and method
-YOU Xiaodi, #C Xiong#, Z Jiang, G Shen
-US Patent 11,979,192</li>
+ <li><p>Wireless optical communication data transmission apparatus and method</p>
+<p>YOU Xiaodi, #C Xiong#, Z Jiang, G Shen</p>
+<p>US Patent 11,979,192</p></li>
 
-<li>Visible light communication system with adaptive dimming and modulation and demodulation method
-YOU Xiaodi, #C Xiong#, G Shen
-US Patent 11,909,440</li>
+<li><p>Visible light communication system with adaptive dimming and modulation and demodulation method</p>
+<p>YOU Xiaodi, #C Xiong#, G Shen</p>
+<p>US Patent 11,909,440</p></li>
 
 <!-- <h3>My latest posts</h3>
 <ul>
