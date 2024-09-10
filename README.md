@@ -66,6 +66,9 @@
     </tr>
   </tbody>
 </table>
+
+<h3>Featured Academic Research</h3>
+C Xiong, et.al., TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO
 <!-- <h3>My latest posts</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
