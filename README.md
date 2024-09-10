@@ -46,7 +46,7 @@
       <td><a href="https://github.com/Franky-X/Awesome-Embodied-Navigation"><b>Awesome Embodied Navigation Survey</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Franky-X/Awesome-Embodied-Navigation?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Franky-X/Awesome-Embodied-Navigation?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Franky-X/Awesome-Embodied-Navigation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Franky-X/Awesome-Embodied-Navigation?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Franky-X/Awesome-Embodied-Navigation?style=flat-square&labelColor=343b41"/></td>
     </tr>
 <!--     <tr>
