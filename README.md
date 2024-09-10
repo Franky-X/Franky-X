@@ -2,6 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Chaoran Xiong, PhD Student from <img src="https://vi.sjtu.edu.cn/uploads/files/caf2f5045c47308250fab3812dfe2003-6896b91594f238b24e67696224948251.png" width="30" /> Shanghai Jiao Tong University. </p>
+<p>If you are interested in robotics embodied navigation, FOLLOW me and I will keep updating news on the research progress around the world.</p>
 <!-- <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
