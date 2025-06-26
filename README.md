@@ -67,14 +67,19 @@
   </tbody>
 </table>
 
-<h3>Patents</h3>
- <li>Wireless optical communication data transmission apparatus and method
-<p>YOU Xiaodi, <b>C Xiong</b>, Z Jiang, G Shen</p>
-<p>US Patent 11,979,192</p></li>
+<h3>Research Highlights</h3>
+ <li>TON-VIO: Online Temporal Calibration Networks Learning On-the-fly in Fast Motion VIO
+<p><b>C, Xiong</b> et. al. </p>
+<p>IEEE Transactions on Instrumentation and Measurement, 2025</p></li>
 
-<li>Visible light communication system with adaptive dimming and modulation and demodulation method
-<p>YOU Xiaodi, <b>C Xiong</b>, G Shen</p>
-<p>US Patent 11,909,440</p></li>
+<li>THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks
+<p><b>C, Xiong</b> et. al.</p>
+<p>Accepted by IROS 2025</p></li>
+
+<li>A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots
+<p><b>C, Xiong*, F, Jiang</b> et. al.</p>
+<p>Accepted by IROS 2025</p></li>
+
 
 <!-- <h3>My latest posts</h3>
 <ul>
