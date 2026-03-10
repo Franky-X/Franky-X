@@ -68,17 +68,23 @@
 </table>
 
 <h3>Research Highlights</h3>
+
+<li>SFCo-Nav: Efficient Zero-Shot Visual Language Navigation via Collaboration of Slow LLM and Fast Attributed Graph Alignment
+<p><b>C, Xiong*, L, wei*, H, Hao*</b> et. al.</p>
+<p>Accepted by ICRA 2026</p></li>
+
+
  <li>TON-VIO: Online Temporal Calibration Networks Learning On-the-fly in Fast Motion VIO
 <p><b>C, Xiong,</b> et. al. </p>
 <p>IEEE Transactions on Instrumentation and Measurement, 2025</p></li>
 
 <li>THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks
 <p><b>C, Xiong, L, Wei,</b> et. al.</p>
-<p>Accepted by IROS 2025</p></li>
+<p>IROS 2025</p></li>
 
 <li>A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots
 <p><b>C, Xiong*, F, Jiang*,</b> et. al.</p>
-<p>Accepted by IROS 2025</p></li>
+<p>IROS 2025</p></li>
 
 
 <!-- <h3>My latest posts</h3>
