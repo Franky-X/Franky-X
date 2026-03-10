@@ -70,7 +70,7 @@
 <h3>Research Highlights</h3>
 
 <li>SFCo-Nav: Efficient Zero-Shot Visual Language Navigation via Collaboration of Slow LLM and Fast Attributed Graph Alignment
-<p><b>C, Xiong*, L, wei*, H, Hao*</b> et. al.</p>
+<p><b>C, Xiong*, L, wei*, H, Hao*, </b> et. al.</p>
 <p>Accepted by ICRA 2026</p></li>
 
 
